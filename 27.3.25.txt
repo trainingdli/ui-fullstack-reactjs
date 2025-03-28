@@ -1,0 +1,74 @@
+E Commerce App - Flipkart, Amazon, Myntra etc...
+
+    Authentication
+
+        Login - Mobile & Validate OTP - 16 hours
+
+            Develop ui of login page.
+
+            Validations of mobile and otp
+        
+        User Registration - 24 hrs
+
+            Develop ui of register page.
+
+            Validations of mobile and otp
+
+        Forgot Password - 16 hrs
+
+        Home Page - 40 hrs
+
+            ----- 96 hrs
+
+        6 hrs
+
+        96 / 6 = 16 days
+
+Agile
+
+    Scrum Framework
+
+        Sprint - Time Duration - Sprint can be 1 / 2 / 3 / 4 Weeks
+
+        Module 1 - 1 week
+
+        Module 2
+
+    Sprint 5
+
+    Sprint 1 - User Registration
+
+    Sprint 2 - User Login
+
+Product Backlog: All the tasks which are at be developed will be added to product backlog.
+
+Sprint Planning: All the tasks which needs to prioritized to the current sprint is plannned.
+
+Sprint Backlog: All the tasks which are prioritized in sprint planned will be added here.
+
+Daily Scrum: It's a meeting which happened every day of sprint to discuss completed work and pending work. 
+
+Sprint Review: What all the works which is done every person in the team will be reviewed in this meeting. If any pending work exist it will be allocated to next sprint.
+
+Sprint Retrospective: All the positive and negative things happened in current sprint will be discussed in this meeting.
+
+    Whole above process will repeat until the completion of the project.
+
+GIT (Global Information Tracker) Tool: GIT is used to track information of an application globally.
+
+    Project - IRCTC application
+
+        8 Developers
+
+
+        1. Train Search Page (100 lines) - 1st Developer
+
+        2. Login Page (50 lines) - 2nd Developer
+
+        3. Chat Bot 
+
+        4. User Registration
+
+        5. Agent Login
+
+

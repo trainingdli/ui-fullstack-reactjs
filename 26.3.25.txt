@@ -1,0 +1,111 @@
+Agenda - 26.3.25
+
+1. Process of Application Development
+2. Different people who are going to work on Project.
+3. GIT
+
+Front End - Presentation Tier
+Back End - Application Tier
+Database - Data Tier
+
+
+SDLC - Software Development Life Cycle
+
+6 Members
+
+3 Developers
+1 QA (Tester) Quality Analyst
+1 BA (Business Analyst)
+1 Manager
+
+
+1. Service based Companies: TCS, Info Sys, Cognizant, Wipro etc...
+2. Product based Companies: Flipkart, Meta (Facebook, Instagram & Whatsapp), Amazon etc...
+
+Naresh IT Web Application
+
+1. Analysis - Gathering requirements of the application & Design Wireframes - Web & Mobile Design
+2. Design - Design Mockup (Adobe XD / Figma Tools)
+3. Development - By taking reference of mockup, we will develop application using technologies.
+4. Testing - In this phase, application will be tested in all different scenarios.
+
+    Login
+
+    Email & Password
+
+    Success Scenario
+
+        Valid Email & Password
+
+
+    Failure Scenario
+
+        1. If email and password is not entered in form fields -> Show error message that Email is required & Password is required
+
+        2. If email is entered but not in valid format - Invalid email format.
+
+        3. If password entered in invalid format
+
+                Password 
+
+                    Minimum 8 Characters
+                    Atleast one upper case letter
+                    Atleast one lower case letter
+                    Atleast one digit
+                    Atleast one special character (& / % $ #)
+
+        3. If email and password is in valid format
+
+                i. User might enter unregistered email address in the form field.
+
+                ii. Incorrect password
+
+5. Deployment: In this phase, we are going to deploy application in cloud to make every one access the application.
+
+    Different Clouds
+
+    1. Google Cloud Platform (GCP)
+    2. AWS (Amazon web services)
+    3. Azure (Microsoft)
+
+6. Maintenance: 
+
+    1. Introduce new features to the application.
+    2. Fixing issues (errors) in existing application.
+
+
+Environments - DevOps Engineer - 
+
+1. Dev - Development
+
+    dev.nareshit.com
+
+2. QA - Testing
+
+    qa.nareshit.com
+
+3. Pre Production / Staging
+
+    stg.nareshit.com
+
+4. Production
+
+    nareshit.com
+
+SDLC
+
+SDLC Methodologies.
+1. Waterfall Methodology: Every process will happen only for one time.
+2. Agile Methodology
+
+Javascript - Programming Language - Logic / Source Code
+
+Express Js - Backend Framework - Writing APIs.
+
+Mongo db - No Sql
+
+My Sql - Sql
+
+React Js - Developing Web Application - Library
+
+React Native - Library Developing Mobile Application
